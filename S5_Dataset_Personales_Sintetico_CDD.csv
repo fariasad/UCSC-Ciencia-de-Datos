@@ -1,0 +1,421 @@
+participante_id;nombre_completo;rut;email;fecha_nacimiento;sexo;comuna;direccion;ocupacion;nivel_educacional;situacion_laboral;ingreso_mensual_miles;programa;asistencia_pct;aprobado
+P0001;Florencia Pérez Araya;93.939.245-8;florencia.pérez73@correo.cl;1968-07-09;M;Coronel;Prat 786;Panadero;Universitaria incompleta;Inactivo;618;Alfabetización digital;80;Sí
+P0002;Florencia Silva Valenzuela;91.854.251-6;florencia.silva25@correo.cl;1978-01-21;M;Lota;Maipú 3523;Panadero;Técnica;Ocupado;914;Emprendimiento;59;No
+P0003;Paula Fuentes Torres;94.822.480-K;paula.fuentes59@correo.cl;1998-03-13;F;Concepción;Barros Arana 1620;Profesor de educación básica;Universitaria incompleta;Desocupado;482;Apresto laboral;82;Sí
+P0004;Rodrigo López Flores;90.640.340-6;rodrigo.lópez66@correo.cl;1990-08-07;F;Lota;Maipú 1470;Electricista;Media completa;Ocupado;642;Oficios técnicos;89;Sí
+P0005;Antonia Reyes Hernández;97.378.918-5;antonia.reyes30@correo.cl;1983-11-05;M;Tomé;O'Higgins 4094;Profesor de educación básica;Media completa;Ocupado;462;Emprendimiento;99;Sí
+P0006;Martín Gutiérrez Rodríguez;97.278.387-6;martín.gutiérrez7@correo.cl;1962-06-19;F;Hualpén;O'Higgins 3398;Costurera;Media completa;Desocupado;506;Emprendimiento;66;No
+P0007;Joaquín Valenzuela Araya;95.961.674-1;joaquín.valenzuela7@correo.cl;1968-01-11;F;Coronel;Prat 1256;Peluquero;Media incompleta;Desocupado;355;Emprendimiento;100;Sí
+P0008;Constanza Silva Tapia;93.745.488-K;constanza.silva32@correo.cl;1978-06-30;F;Coronel;Las Camelias 4156;Recepcionista;Técnica;Desocupado;776;Apresto laboral;89;No
+P0009;Tomás Rodríguez Martínez;91.593.917-2;tomás.rodríguez41@correo.cl;1970-11-15;M;Lota;Las Camelias 4934;Cajero;Media incompleta;Desocupado;263;Alfabetización digital;90;Sí
+P0010;Fernanda Fuentes Torres;99.887.992-6;fernanda.fuentes35@correo.cl;1958-10-17;F;Penco;Maipú 1599;Administrativo;Media incompleta;Desocupado;577;Apresto laboral;67;No
+P0011;Florencia Hernández Muñoz;96.621.322-8;florencia.hernández10@correo.cl;1976-10-17;F;Hualpén;Prat 4088;Operario;Universitaria incompleta;Inactivo;464;Alfabetización digital;68;No
+P0012;Paula Morales Pérez;96.721.618-2;paula.morales67@correo.cl;1993-10-05;M;Lota;Los Aromos 4145;Operario;Técnica;Ocupado;808;Alfabetización digital;81;Sí
+P0013;Florencia Flores Soto;91.728.098-4;florencia.flores99@correo.cl;1971-06-07;M;Lota;Las Camelias 3491;Soldador;Media completa;Desocupado;582;Emprendimiento;98;Sí
+P0014;Josefa Gutiérrez Martínez;97.857.486-1;josefa.gutiérrez14@correo.cl;1963-06-09;M;Hualpén;Chacabuco 2718;Auxiliar de aseo;Media completa;Desocupado;414;Oficios técnicos;69;No
+P0015;Matías Valenzuela Silva;91.668.081-4;matías.valenzuela49@correo.cl;1965-10-14;M;Penco;Maipú 2843;Contador;Básica completa;Inactivo;483;Apresto laboral;97;Sí
+P0016;Sebastián Contreras Contreras;93.359.908-5;sebastián.contreras63@correo.cl;1966-02-05;F;Talcahuano;Los Aromos 2662;Panadero;Universitaria incompleta;Inactivo;614;Emprendimiento;61;No
+P0017;Benjamín Rodríguez Muñoz;93.060.240-9;benjamín.rodríguez79@correo.cl;1995-09-18;M;Concepción;Los Aromos 1565;Operario;Media completa;Inactivo;382;Apresto laboral;82;Sí
+P0018;Camila Muñoz Martínez;90.954.992-4;camila.muñoz85@correo.cl;1961-09-22;F;Talcahuano;Prat 4699;Electricista;Básica completa;Ocupado;217;Oficios técnicos;85;Sí
+P0019;Tomás Sepúlveda Silva;93.078.298-9;tomás.sepúlveda75@correo.cl;1981-01-26;M;Talcahuano;Caupolicán 1090;Cocinero;Básica completa;Ocupado;536;Oficios técnicos;90;Sí
+P0020;Diego Valenzuela Díaz;93.343.142-7;diego.valenzuela93@correo.cl;1966-09-14;F;Concepción;Barros Arana 4806;Vendedor;Media incompleta;Ocupado;473;Apresto laboral;73;Sí
+P0021;Josefa Soto Rodríguez;93.039.888-7;josefa.soto41@correo.cl;1958-03-02;M;Penco;Barros Arana 2047;Panadero;Básica completa;Ocupado;576;Emprendimiento;100;No
+P0022;Agustín Martínez Hernández;93.528.676-9;agustín.martínez15@correo.cl;1958-07-17;F;Concepción;Barros Arana 4050;Mecánico;Técnica;Desocupado;569;Apresto laboral;100;Sí
+P0023;Martín Gutiérrez Araya;93.700.847-2;martín.gutiérrez58@correo.cl;1989-07-16;F;Tomé;Barros Arana 4249;Conductor;Media incompleta;Desocupado;332;Alfabetización digital;75;Sí
+P0024;Sebastián Silva Valenzuela;90.909.991-0;sebastián.silva18@correo.cl;1969-10-11;M;Concepción;Prat 2605;Costurera;Media completa;Ocupado;613;Oficios técnicos;82;Sí
+P0025;Camila Morales Muñoz;95.364.956-7;camila.morales32@correo.cl;1958-10-22;F;Lota;Chacabuco 2937;Cocinero;Técnica;Inactivo;868;Alfabetización digital;93;No
+P0026;Javiera Tapia Sepúlveda;98.021.729-3;javiera.tapia32@correo.cl;1996-04-25;F;Lota;Serrano 3125;Profesor de educación básica;Media incompleta;Ocupado;443;Apresto laboral;75;Sí
+P0027;Fernanda Hernández Muñoz;98.489.856-2;fernanda.hernández39@correo.cl;1984-06-24;F;Concepción;Chacabuco 3017;Cocinero;Básica completa;Ocupado;269;Alfabetización digital;87;Sí
+P0028;Benjamín Rojas Tapia;93.460.612-3;benjamín.rojas35@correo.cl;1985-05-01;M;Coronel;Los Aromos 1123;Cocinero;Técnica;Inactivo;998;Apresto laboral;88;Sí
+P0029;Antonia Soto Sepúlveda;94.905.113-5;antonia.soto49@correo.cl;1988-04-17;M;Hualpén;Freire 308;Operario;Técnica;Ocupado;764;Apresto laboral;61;No
+P0030;Josefa Morales Soto;93.157.254-6;josefa.morales25@correo.cl;1972-12-01;F;Concepción;Chacabuco 1291;Comerciante;Media incompleta;Desocupado;388;Alfabetización digital;94;Sí
+P0031;Matías González Reyes;97.945.611-0;matías.gonzález40@correo.cl;1988-07-22;F;Coronel;Chacabuco 4962;Electricista;Media completa;Ocupado;560;Emprendimiento;99;Sí
+P0032;Javiera Muñoz López;98.596.594-8;javiera.muñoz60@correo.cl;1991-06-06;M;Chiguayante;Colo Colo 3687;Técnico en enfermería;Media completa;Desocupado;454;Oficios técnicos;72;Sí
+P0033;Catalina Valenzuela Fuentes;97.502.274-4;catalina.valenzuela96@correo.cl;1971-10-14;M;Lota;Prat 1979;Panadero;Media incompleta;Ocupado;740;Alfabetización digital;95;No
+P0034;Josefa Muñoz Gutiérrez;97.672.937-K;josefa.muñoz23@correo.cl;1995-04-25;M;Hualpén;Colo Colo 3119;Jardinero;Media completa;Ocupado;494;Alfabetización digital;100;Sí
+P0035;Catalina Espinoza Silva;98.721.786-8;catalina.espinoza83@correo.cl;1974-01-10;F;San Pedro de la Paz;Serrano 3122;Operario;Media completa;Desocupado;417;Apresto laboral;77;Sí
+P0036;Tomás Gutiérrez Soto;97.881.289-4;tomás.gutiérrez18@correo.cl;1964-06-06;F;Penco;Las Camelias 3897;Recepcionista;Universitaria incompleta;Ocupado;359;Alfabetización digital;89;Sí
+P0037;Javiera Pérez Flores;91.197.332-5;javiera.pérez98@correo.cl;1967-02-19;F;Tomé;Freire 740;Cocinero;Media completa;Ocupado;666;Emprendimiento;76;Sí
+P0038;Camila Silva Silva;99.559.866-7;camila.silva84@correo.cl;1981-04-22;M;Talcahuano;Prat 4794;Conductor;Media completa;Ocupado;422;Oficios técnicos;45;No
+P0039;Fernanda López López;92.494.741-1;fernanda.lópez47@correo.cl;1965-02-01;F;Penco;O'Higgins 4017;Panadero;Básica completa;Ocupado;583;Emprendimiento;36;No
+P0040;Antonia Sepúlveda Silva;96.811.465-0;antonia.sepúlveda24@correo.cl;1979-05-25;F;Coronel;Caupolicán 1694;Panadero;Técnica;Ocupado;593;Alfabetización digital;83;Sí
+P0041;Isidora Morales Espinoza;99.785.097-5;isidora.morales90@correo.cl;1967-11-02;M;Chiguayante;O'Higgins 3902;Guardia;Técnica;Ocupado;795;Apresto laboral;97;Sí
+P0042;Isidora Rojas Pérez;99.010.091-1;isidora.rojas63@correo.cl;1958-01-12;M;Lota;Prat 4690;Conductor;Técnica;Inactivo;685;Alfabetización digital;69;No
+P0043;Valentina Castillo Silva;94.873.148-5;valentina.castillo55@correo.cl;1969-07-12;F;Concepción;Los Aromos 2432;Conductor;Media completa;Ocupado;658;Alfabetización digital;58;No
+P0044;Javiera Rodríguez Flores;99.026.062-5;javiera.rodríguez81@correo.cl;1987-11-25;M;Penco;Caupolicán 3050;Cocinero;Media incompleta;Ocupado;714;Alfabetización digital;100;Sí
+P0045;Martín Torres López;94.252.932-3;martín.torres85@correo.cl;2000-03-14;F;Hualpén;Prat 1257;Jardinero;Técnica;Ocupado;439;Alfabetización digital;64;No
+P0046;Isidora Soto Rodríguez;96.413.563-7;isidora.soto59@correo.cl;1976-01-30;F;Hualqui;Los Aromos 692;Conductor;Media incompleta;Ocupado;336;Emprendimiento;83;Sí
+P0047;Valentina Reyes Araya;97.340.179-9;valentina.reyes45@correo.cl;1972-11-01;F;Chiguayante;Barros Arana 2457;Jardinero;Básica completa;Inactivo;382;Alfabetización digital;73;Sí
+P0048;Josefa López Araya;95.699.632-2;josefa.lópez64@correo.cl;2001-08-14;F;San Pedro de la Paz;Freire 4115;Administrativo;Media completa;Ocupado;408;Apresto laboral;87;Sí
+P0049;Fernanda Muñoz Hernández;92.389.336-9;fernanda.muñoz29@correo.cl;1974-07-28;F;Hualpén;O'Higgins 2955;Comerciante;Universitaria incompleta;Desocupado;544;Apresto laboral;74;Sí
+P0050;Joaquín Silva Pérez;95.630.003-4;joaquín.silva40@correo.cl;1980-10-23;F;Penco;Maipú 791;Operario;Media completa;Ocupado;452;Oficios técnicos;57;No
+P0051;Diego Díaz González;95.841.838-5;diego.díaz27@correo.cl;1991-04-21;M;San Pedro de la Paz;Las Camelias 4479;Peluquero;Media completa;Desocupado;706;Emprendimiento;70;Sí
+P0052;Florencia Araya Rojas;93.411.361-5;florencia.araya94@correo.cl;1988-04-20;F;Concepción;Barros Arana 1220;Conductor;Básica completa;Desocupado;380;Emprendimiento;49;No
+P0053;Diego Torres Flores;93.449.752-9;diego.torres13@correo.cl;2002-06-21;F;Penco;Caupolicán 489;Auxiliar de aseo;Básica completa;Desocupado;434;Oficios técnicos;86;Sí
+P0054;Vicente Hernández Flores;95.352.462-4;vicente.hernández88@correo.cl;1992-12-25;M;Hualqui;Colo Colo 2600;Operario;Media completa;Ocupado;489;Alfabetización digital;87;No
+P0055;Isidora Valenzuela Fuentes;98.450.396-7;isidora.valenzuela36@correo.cl;1968-07-20;F;Hualpén;Janequeo 4142;Costurera;Básica completa;Desocupado;492;Oficios técnicos;100;Sí
+P0056;Joaquín Torres Soto;98.602.630-9;joaquín.torres21@correo.cl;2001-11-10;M;Penco;O'Higgins 3945;Cajero;Media completa;Ocupado;679;Alfabetización digital;100;Sí
+P0057;Camila Castillo Fuentes;97.593.227-9;camila.castillo65@correo.cl;1999-11-12;M;Coronel;Chacabuco 1419;Mecánico;Media completa;Ocupado;673;Emprendimiento;64;No
+P0058;Valentina Soto Muñoz;95.263.452-3;valentina.soto54@correo.cl;1996-04-01;F;Talcahuano;Freire 712;Auxiliar de aseo;Media incompleta;Ocupado;782;Oficios técnicos;60;No
+P0059;Benjamín Rodríguez Espinoza;93.997.649-2;benjamín.rodríguez49@correo.cl;1997-04-14;F;Hualqui;Prat 629;Recepcionista;Media incompleta;Ocupado;414;Emprendimiento;82;Sí
+P0060;Tomás Morales Fuentes;99.381.668-3;tomás.morales77@correo.cl;1975-04-06;F;Concepción;Janequeo 1884;Guardia;Técnica;Ocupado;800;Apresto laboral;54;No
+P0061;Tomás Sepúlveda Rodríguez;99.906.729-1;tomás.sepúlveda75@correo.cl;1998-07-25;F;Penco;Las Camelias 2927;Auxiliar de aseo;Técnica;Ocupado;477;Oficios técnicos;83;Sí
+P0062;Benjamín Pérez Tapia;97.633.862-1;benjamín.pérez99@correo.cl;1998-02-09;M;Tomé;Prat 1388;Vendedor;Media completa;Ocupado;379;Emprendimiento;76;Sí
+P0063;Catalina Castillo Soto;95.920.479-6;catalina.castillo43@correo.cl;1958-04-02;M;Hualpén;Serrano 4789;Conductor;Media completa;Desocupado;222;Emprendimiento;77;Sí
+P0064;Agustín Tapia López;97.704.470-2;agustín.tapia31@correo.cl;1964-09-15;F;Tomé;Caupolicán 3306;Contador;Media completa;Ocupado;594;Alfabetización digital;100;Sí
+P0065;Rodrigo González González;96.132.784-5;rodrigo.gonzález45@correo.cl;1986-12-08;M;Hualqui;Prat 2393;Guardia;Media incompleta;Ocupado;716;Apresto laboral;73;Sí
+P0066;Agustín González Torres;95.002.777-8;agustín.gonzález79@correo.cl;1990-09-11;M;Tomé;Freire 837;Conductor;Media incompleta;Desocupado;433;Apresto laboral;85;Sí
+P0067;Diego Martínez Espinoza;95.121.661-2;diego.martínez8@correo.cl;1971-05-13;M;San Pedro de la Paz;Chacabuco 1526;Electricista;Media completa;Desocupado;451;Emprendimiento;100;Sí
+P0068;Vicente Fuentes Reyes;91.782.657-K;vicente.fuentes9@correo.cl;1971-03-29;M;San Pedro de la Paz;Freire 722;Jardinero;Técnica;Ocupado;612;Apresto laboral;66;No
+P0069;Agustín Gutiérrez Gutiérrez;97.358.545-8;agustín.gutiérrez70@correo.cl;1999-02-07;F;Coronel;Barros Arana 4077;Costurera;Universitaria incompleta;Ocupado;652;Emprendimiento;84;Sí
+P0070;Nicolás Soto Muñoz;91.451.992-7;nicolás.soto30@correo.cl;1973-01-05;F;Coronel;Janequeo 4760;Contador;Media incompleta;Desocupado;320;Oficios técnicos;81;Sí
+P0071;Emilia Castillo Sepúlveda;94.714.203-6;emilia.castillo85@correo.cl;1999-03-15;M;Tomé;Freire 574;Comerciante;Media incompleta;Ocupado;340;Emprendimiento;83;Sí
+P0072;Cristóbal Reyes Díaz;95.589.215-9;cristóbal.reyes48@correo.cl;1987-05-14;F;Hualpén;O'Higgins 3953;Soldador;Técnica;Ocupado;928;Emprendimiento;77;Sí
+P0073;Matías Sepúlveda Valenzuela;90.606.124-6;matías.sepúlveda26@correo.cl;1977-12-09;M;Chiguayante;O'Higgins 4877;Administrativo;Básica completa;Desocupado;585;Emprendimiento;53;No
+P0074;Cristóbal Valenzuela Sepúlveda;96.814.314-6;cristóbal.valenzuela67@correo.cl;1996-06-04;F;Chiguayante;Los Aromos 2401;Electricista;Media completa;Ocupado;450;Emprendimiento;78;Sí
+P0075;Diego Gutiérrez Silva;98.508.108-K;diego.gutiérrez20@correo.cl;1986-06-19;F;Tomé;O'Higgins 545;Costurera;Básica completa;Ocupado;173;Oficios técnicos;100;Sí
+P0076;Javiera Fuentes Díaz;93.117.323-4;javiera.fuentes80@correo.cl;1997-09-19;M;Penco;Prat 4561;Contador;Básica completa;Desocupado;190;Apresto laboral;98;Sí
+P0077;Tomás López Sepúlveda;90.202.103-7;tomás.lópez32@correo.cl;1970-05-25;F;Coronel;Barros Arana 1511;Guardia;Básica completa;Ocupado;747;Alfabetización digital;54;No
+P0078;Sebastián Soto Rojas;99.306.195-K;sebastián.soto86@correo.cl;2001-09-25;M;Lota;Los Aromos 1865;Costurera;Media incompleta;Ocupado;180;Oficios técnicos;44;No
+P0079;Joaquín Araya Flores;92.242.603-1;joaquín.araya45@correo.cl;1968-02-04;F;Coronel;Serrano 4724;Auxiliar de aseo;Media completa;Ocupado;531;Alfabetización digital;77;No
+P0080;Matías Fuentes Muñoz;95.414.113-3;matías.fuentes14@correo.cl;1972-12-04;F;Concepción;Freire 782;Panadero;Universitaria incompleta;Desocupado;618;Oficios técnicos;100;Sí
+P0081;Isidora Martínez Soto;90.639.400-8;isidora.martínez88@correo.cl;1996-06-26;M;Penco;Las Camelias 4985;Peluquero;Media completa;Ocupado;330;Oficios técnicos;58;No
+P0082;Valentina Torres Fuentes;96.329.426-K;valentina.torres62@correo.cl;1962-05-06;F;Hualqui;Serrano 1645;Electricista;Media completa;Ocupado;364;Apresto laboral;99;Sí
+P0083;Diego Torres Morales;94.183.501-3;diego.torres25@correo.cl;1987-07-10;M;Concepción;Caupolicán 4587;Mecánico;Técnica;Ocupado;702;Apresto laboral;87;Sí
+P0084;Tomás Pérez López;94.948.863-0;tomás.pérez57@correo.cl;1975-01-12;F;Penco;Freire 2732;Costurera;Media incompleta;Ocupado;205;Alfabetización digital;88;Sí
+P0085;Benjamín Fuentes Tapia;92.658.161-9;benjamín.fuentes44@correo.cl;1980-05-21;M;Hualpén;Janequeo 3581;Vendedor;Media completa;Ocupado;439;Oficios técnicos;100;Sí
+P0086;Isidora Morales Soto;93.634.940-3;isidora.morales52@correo.cl;1996-10-07;M;San Pedro de la Paz;Chacabuco 4934;Técnico en enfermería;Media incompleta;Ocupado;198;Alfabetización digital;90;Sí
+P0087;Vicente López Valenzuela;99.712.073-K;vicente.lópez1@correo.cl;1997-02-18;F;Hualqui;Chacabuco 332;Mecánico;Técnica;Ocupado;586;Alfabetización digital;95;Sí
+P0088;Javiera Rojas Tapia;93.693.670-8;javiera.rojas41@correo.cl;1985-11-26;M;Hualpén;Freire 341;Comerciante;Media completa;Desocupado;404;Apresto laboral;84;No
+P0089;Matías Torres Contreras;97.231.747-6;matías.torres89@correo.cl;2003-08-20;F;Talcahuano;Caupolicán 3478;Cajero;Técnica;Desocupado;805;Oficios técnicos;94;Sí
+P0090;Camila Muñoz Tapia;98.218.003-6;camila.muñoz4@correo.cl;1959-03-22;F;Coronel;O'Higgins 2875;Cocinero;Media completa;Ocupado;456;Emprendimiento;57;No
+P0091;Paula Pérez Fuentes;92.192.417-8;paula.pérez32@correo.cl;1960-05-08;F;Coronel;Las Camelias 3833;Costurera;Media incompleta;Ocupado;218;Apresto laboral;84;Sí
+P0092;Vicente Hernández López;93.134.702-K;vicente.hernández23@correo.cl;1958-04-19;M;Penco;Serrano 2269;Comerciante;Media completa;Desocupado;327;Emprendimiento;40;No
+P0093;Cristóbal Valenzuela Martínez;97.749.196-2;cristóbal.valenzuela32@correo.cl;1958-11-12;F;Lota;Freire 236;Comerciante;Media completa;Inactivo;478;Emprendimiento;58;No
+P0094;Tomás Fuentes Hernández;95.696.826-4;tomás.fuentes72@correo.cl;1999-02-07;F;Tomé;Colo Colo 4210;Conductor;Media completa;Ocupado;715;Emprendimiento;71;Sí
+P0095;Nicolás Díaz Contreras;94.079.346-5;nicolás.díaz96@correo.cl;1971-01-18;F;San Pedro de la Paz;Las Camelias 3824;Auxiliar de aseo;Universitaria incompleta;Desocupado;578;Emprendimiento;82;Sí
+P0096;Joaquín Valenzuela Torres;97.227.533-1;joaquín.valenzuela20@correo.cl;1964-10-30;F;Concepción;Las Camelias 3681;Cocinero;Básica completa;Ocupado;412;Alfabetización digital;97;Sí
+P0097;Constanza Espinoza Silva;93.354.450-7;constanza.espinoza92@correo.cl;1981-01-10;M;Coronel;Serrano 1820;Vendedor;Técnica;Desocupado;850;Oficios técnicos;87;Sí
+P0098;Valentina Valenzuela Rodríguez;98.433.293-3;valentina.valenzuela76@correo.cl;1966-04-19;M;Talcahuano;Barros Arana 557;Costurera;Media incompleta;Ocupado;583;Emprendimiento;78;Sí
+P0099;Fernanda Gutiérrez Rodríguez;94.897.582-1;fernanda.gutiérrez26@correo.cl;1985-09-24;F;Chiguayante;Serrano 2818;Mecánico;Técnica;Ocupado;459;Oficios técnicos;72;Sí
+P0100;Nicolás Sepúlveda Contreras;99.924.727-3;nicolás.sepúlveda11@correo.cl;1974-08-22;F;Hualqui;Prat 1379;Soldador;Técnica;Ocupado;736;Apresto laboral;79;Sí
+P0101;Emilia Díaz Torres;97.175.543-7;emilia.díaz42@correo.cl;1971-07-15;F;Talcahuano;Chacabuco 1950;Soldador;Media incompleta;Ocupado;439;Oficios técnicos;73;Sí
+P0102;Benjamín Contreras Contreras;90.717.099-5;benjamín.contreras20@correo.cl;2002-01-05;F;Hualqui;Prat 4366;Cocinero;Media completa;Ocupado;320;Oficios técnicos;82;Sí
+P0103;Tomás Araya Rodríguez;93.901.548-4;tomás.araya78@correo.cl;1987-05-01;F;San Pedro de la Paz;Chacabuco 1365;Panadero;Técnica;Desocupado;863;Apresto laboral;92;Sí
+P0104;Emilia Silva Flores;94.272.937-3;emilia.silva61@correo.cl;1962-05-21;F;Concepción;Serrano 2576;Recepcionista;Media completa;Ocupado;495;Oficios técnicos;50;No
+P0105;Isidora Hernández Morales;95.596.249-1;isidora.hernández4@correo.cl;1984-02-25;F;Penco;Prat 4120;Cajero;Básica completa;Ocupado;641;Alfabetización digital;55;No
+P0106;Florencia Silva Morales;98.590.787-5;florencia.silva7@correo.cl;2003-10-26;M;Penco;Colo Colo 204;Guardia;Básica completa;Ocupado;463;Emprendimiento;71;Sí
+P0107;Martín Araya Tapia;99.836.442-K;martín.araya97@correo.cl;1991-02-10;M;Hualpén;Los Aromos 2710;Conductor;Básica completa;Ocupado;368;Alfabetización digital;76;No
+P0108;Valentina Flores Silva;91.543.112-8;valentina.flores64@correo.cl;1992-02-14;F;Penco;Serrano 2085;Costurera;Media incompleta;Inactivo;441;Apresto laboral;81;Sí
+P0109;Benjamín Díaz González;94.557.400-1;benjamín.díaz76@correo.cl;1977-12-19;F;Lota;Colo Colo 1355;Recepcionista;Media completa;Desocupado;905;Oficios técnicos;69;No
+P0110;Valentina González Rojas;91.130.008-8;valentina.gonzález28@correo.cl;1960-12-15;M;San Pedro de la Paz;Serrano 3603;Operario;Técnica;Desocupado;859;Emprendimiento;83;Sí
+P0111;Isidora Flores Araya;97.312.593-7;isidora.flores38@correo.cl;2001-08-05;F;Concepción;Chacabuco 4957;Jardinero;Media incompleta;Desocupado;452;Apresto laboral;100;Sí
+P0112;Isidora Araya Araya;92.531.657-1;isidora.araya92@correo.cl;1979-01-11;F;Hualqui;Janequeo 329;Recepcionista;Universitaria incompleta;Inactivo;404;Emprendimiento;80;Sí
+P0113;Sebastián Contreras Tapia;91.673.626-7;sebastián.contreras26@correo.cl;1965-08-25;M;San Pedro de la Paz;Las Camelias 1379;Operario;Básica completa;Inactivo;697;Alfabetización digital;100;Sí
+P0114;Paula Martínez Silva;98.648.131-6;paula.martínez11@correo.cl;1985-08-14;F;San Pedro de la Paz;O'Higgins 998;Conductor;Técnica;Desocupado;923;Apresto laboral;100;Sí
+P0115;Vicente Araya Díaz;95.469.197-4;vicente.araya32@correo.cl;1982-06-12;M;Chiguayante;Serrano 835;Auxiliar de aseo;Básica completa;Ocupado;455;Alfabetización digital;68;No
+P0116;Nicolás González Muñoz;99.858.881-6;nicolás.gonzález33@correo.cl;1973-01-07;M;San Pedro de la Paz;O'Higgins 1179;Profesor de educación básica;Media completa;Ocupado;725;Oficios técnicos;46;No
+P0117;Antonia Fuentes Soto;91.753.518-4;antonia.fuentes53@correo.cl;1988-10-11;M;Concepción;Colo Colo 2994;Costurera;Universitaria incompleta;Desocupado;669;Oficios técnicos;90;No
+P0118;Rodrigo Flores Muñoz;95.057.959-2;rodrigo.flores64@correo.cl;1991-04-21;M;Hualqui;Chacabuco 762;Comerciante;Media completa;Ocupado;370;Apresto laboral;100;Sí
+P0119;Vicente Torres Valenzuela;94.731.439-2;vicente.torres20@correo.cl;1985-05-29;M;Penco;Maipú 3104;Jardinero;Media completa;Desocupado;827;Emprendimiento;100;Sí
+P0120;Martín Araya Gutiérrez;96.860.529-8;martín.araya36@correo.cl;1988-03-02;F;Talcahuano;Freire 922;Conductor;Básica completa;Ocupado;391;Oficios técnicos;60;No
+P0121;Sebastián Torres Pérez;97.591.673-7;sebastián.torres25@correo.cl;1993-06-08;M;Tomé;Las Camelias 3627;Auxiliar de aseo;Media completa;Ocupado;574;Alfabetización digital;77;Sí
+P0122;Sebastián Pérez Soto;92.644.805-6;sebastián.pérez87@correo.cl;1965-12-02;M;Penco;Maipú 1498;Soldador;Media completa;Ocupado;927;Apresto laboral;66;No
+P0123;Catalina Torres Hernández;95.954.095-8;catalina.torres71@correo.cl;1974-04-17;M;Coronel;Janequeo 1619;Técnico en enfermería;Técnica;Ocupado;568;Oficios técnicos;97;Sí
+P0124;Vicente Fuentes Rodríguez;94.264.901-9;vicente.fuentes35@correo.cl;1976-12-15;F;Hualqui;O'Higgins 1032;Técnico en enfermería;Técnica;Inactivo;752;Alfabetización digital;95;Sí
+P0125;Benjamín Reyes Gutiérrez;94.586.567-7;benjamín.reyes77@correo.cl;1979-05-08;F;Penco;Chacabuco 2550;Mecánico;Media incompleta;Desocupado;173;Emprendimiento;52;No
+P0126;Valentina Pérez Martínez;98.865.409-9;valentina.pérez43@correo.cl;1970-11-28;F;San Pedro de la Paz;Janequeo 3135;Conductor;Técnica;Ocupado;614;Apresto laboral;60;No
+P0127;Javiera Tapia Morales;90.825.747-4;javiera.tapia79@correo.cl;1967-08-01;M;Hualqui;Las Camelias 1605;Peluquero;Media completa;Ocupado;895;Alfabetización digital;73;Sí
+P0128;Agustín Reyes Castillo;96.394.853-7;agustín.reyes97@correo.cl;1976-10-05;F;Penco;Maipú 2661;Guardia;Media completa;Ocupado;208;Apresto laboral;74;No
+P0129;Valentina Flores Fuentes;90.177.243-8;valentina.flores98@correo.cl;1970-12-07;M;Tomé;Caupolicán 1178;Cajero;Media completa;Desocupado;203;Emprendimiento;48;No
+P0130;Tomás Soto González;90.405.217-7;tomás.soto73@correo.cl;1989-05-06;M;Hualqui;Barros Arana 4391;Peluquero;Técnica;Ocupado;733;Apresto laboral;62;No
+P0131;Fernanda Castillo Rodríguez;98.076.864-8;fernanda.castillo21@correo.cl;1962-06-28;F;Concepción;Chacabuco 551;Cajero;Media completa;Inactivo;781;Apresto laboral;54;No
+P0132;Antonia Díaz Sepúlveda;99.693.486-5;antonia.díaz43@correo.cl;1984-04-17;F;Penco;Colo Colo 3388;Administrativo;Media incompleta;Ocupado;399;Alfabetización digital;80;Sí
+P0133;Tomás Castillo Reyes;91.839.609-9;tomás.castillo30@correo.cl;1987-07-19;F;Hualqui;Chacabuco 360;Administrativo;Básica completa;Desocupado;583;Emprendimiento;69;No
+P0134;Joaquín Sepúlveda Valenzuela;95.270.852-7;joaquín.sepúlveda87@correo.cl;1981-01-01;F;San Pedro de la Paz;Freire 392;Conductor;Media completa;Ocupado;686;Emprendimiento;100;Sí
+P0135;Florencia Pérez Fuentes;97.104.458-1;florencia.pérez8@correo.cl;1989-11-13;F;Hualqui;Colo Colo 1029;Contador;Media completa;Ocupado;439;Emprendimiento;83;Sí
+P0136;Josefa Hernández Araya;97.790.428-0;josefa.hernández76@correo.cl;1978-10-10;M;Lota;Los Aromos 1426;Profesor de educación básica;Básica completa;Desocupado;382;Emprendimiento;72;Sí
+P0137;Josefa Rodríguez Sepúlveda;99.759.660-2;josefa.rodríguez18@correo.cl;1979-04-25;F;Coronel;Janequeo 949;Recepcionista;Media completa;Ocupado;556;Emprendimiento;96;Sí
+P0138;Martín Valenzuela Espinoza;99.427.282-2;martín.valenzuela30@correo.cl;2001-01-23;M;Coronel;Freire 2418;Soldador;Media incompleta;Ocupado;315;Apresto laboral;76;Sí
+P0139;Tomás Fuentes López;92.324.823-4;tomás.fuentes90@correo.cl;2003-06-12;F;Hualqui;Prat 1145;Cocinero;Media incompleta;Ocupado;270;Apresto laboral;96;No
+P0140;Isidora Rodríguez Muñoz;92.637.476-1;isidora.rodríguez17@correo.cl;1962-06-04;M;Penco;Chacabuco 2400;Guardia;Básica completa;Ocupado;412;Oficios técnicos;96;Sí
+P0141;Antonia Silva Flores;99.179.226-4;antonia.silva26@correo.cl;1986-09-28;F;San Pedro de la Paz;Freire 4828;Técnico en enfermería;Media completa;Ocupado;526;Apresto laboral;65;No
+P0142;Paula Morales Torres;96.721.548-8;paula.morales84@correo.cl;1974-10-12;M;Lota;Colo Colo 1658;Electricista;Media completa;Desocupado;770;Alfabetización digital;40;No
+P0143;Fernanda Martínez Díaz;93.681.563-3;fernanda.martínez83@correo.cl;1984-04-14;F;Coronel;Maipú 4558;Profesor de educación básica;Media completa;Ocupado;660;Alfabetización digital;88;Sí
+P0144;Antonia Rojas Soto;92.727.749-2;antonia.rojas23@correo.cl;1993-09-08;F;San Pedro de la Paz;Las Camelias 1468;Contador;Media completa;Ocupado;437;Emprendimiento;91;Sí
+P0145;Fernanda Fuentes Torres;92.061.599-6;fernanda.fuentes48@correo.cl;1979-10-24;F;San Pedro de la Paz;Maipú 2257;Mecánico;Técnica;Ocupado;649;Alfabetización digital;78;Sí
+P0146;Benjamín Tapia Reyes;90.045.540-4;benjamín.tapia52@correo.cl;1966-11-20;F;Coronel;Freire 3190;Profesor de educación básica;Técnica;Ocupado;526;Emprendimiento;83;Sí
+P0147;Agustín Espinoza Espinoza;94.010.076-1;agustín.espinoza25@correo.cl;1992-07-08;M;Hualqui;O'Higgins 3920;Operario;Técnica;Desocupado;628;Apresto laboral;72;No
+P0148;Josefa Contreras Silva;96.001.064-3;josefa.contreras65@correo.cl;1988-05-06;F;Tomé;Caupolicán 889;Cocinero;Media completa;Ocupado;570;Apresto laboral;84;Sí
+P0149;Isidora Rodríguez Torres;99.923.732-4;isidora.rodríguez55@correo.cl;1974-07-21;M;Concepción;Prat 2976;Operario;Media incompleta;Ocupado;477;Oficios técnicos;47;No
+P0150;Agustín López Soto;90.890.339-2;agustín.lópez38@correo.cl;1996-04-29;M;Coronel;Los Aromos 2644;Profesor de educación básica;Universitaria incompleta;Desocupado;707;Emprendimiento;73;Sí
+P0151;Benjamín Martínez Soto;97.002.641-5;benjamín.martínez20@correo.cl;1997-05-19;M;Tomé;Barros Arana 2749;Panadero;Media incompleta;Desocupado;551;Oficios técnicos;82;Sí
+P0152;Rodrigo Díaz Muñoz;96.973.692-2;rodrigo.díaz85@correo.cl;1971-04-08;M;San Pedro de la Paz;Colo Colo 1841;Guardia;Técnica;Ocupado;672;Alfabetización digital;94;No
+P0153;Nicolás Díaz López;90.374.871-2;nicolás.díaz54@correo.cl;1996-09-18;M;Concepción;Serrano 3338;Costurera;Técnica;Desocupado;660;Alfabetización digital;100;Sí
+P0154;Camila Contreras Valenzuela;93.152.219-0;camila.contreras83@correo.cl;1968-12-11;F;Penco;Serrano 3325;Panadero;Básica completa;Desocupado;139;Alfabetización digital;100;Sí
+P0155;Vicente Sepúlveda Fuentes;99.399.565-0;vicente.sepúlveda26@correo.cl;1986-10-09;F;Tomé;Barros Arana 1943;Conductor;Universitaria incompleta;Desocupado;631;Oficios técnicos;66;No
+P0156;Martín Morales Araya;93.481.371-4;martín.morales35@correo.cl;1999-03-23;M;Hualpén;O'Higgins 1896;Contador;Universitaria incompleta;Inactivo;914;Apresto laboral;60;No
+P0157;Vicente Torres Castillo;93.019.358-4;vicente.torres69@correo.cl;2001-10-29;M;Hualpén;Maipú 3707;Soldador;Media incompleta;Ocupado;471;Emprendimiento;59;No
+P0158;Valentina Rojas Soto;90.871.977-K;valentina.rojas90@correo.cl;1994-05-12;M;San Pedro de la Paz;Caupolicán 604;Conductor;Media completa;Ocupado;638;Emprendimiento;65;No
+P0159;Valentina Gutiérrez Castillo;96.438.123-9;valentina.gutiérrez16@correo.cl;1979-07-28;F;Concepción;Janequeo 4245;Peluquero;Técnica;Ocupado;675;Oficios técnicos;61;No
+P0160;Joaquín Morales Fuentes;96.210.977-9;joaquín.morales27@correo.cl;2002-05-19;M;San Pedro de la Paz;Prat 2735;Panadero;Media incompleta;Ocupado;472;Alfabetización digital;46;No
+P0161;Sebastián Soto López;92.013.893-4;sebastián.soto14@correo.cl;1985-11-18;M;Concepción;Maipú 3632;Técnico en enfermería;Técnica;Desocupado;838;Alfabetización digital;30;No
+P0162;Agustín Hernández Gutiérrez;92.291.653-5;agustín.hernández45@correo.cl;1991-05-02;M;Hualpén;Prat 139;Electricista;Media completa;Desocupado;616;Emprendimiento;99;Sí
+P0163;Isidora Gutiérrez Martínez;98.303.172-7;isidora.gutiérrez51@correo.cl;1974-10-09;F;Lota;O'Higgins 295;Costurera;Universitaria incompleta;Ocupado;704;Emprendimiento;61;No
+P0164;Rodrigo Martínez Torres;91.236.253-2;rodrigo.martínez36@correo.cl;1976-03-31;F;Coronel;Serrano 3396;Contador;Media completa;Ocupado;289;Oficios técnicos;39;No
+P0165;Fernanda Castillo Castillo;95.691.320-6;fernanda.castillo44@correo.cl;1999-12-21;F;Lota;O'Higgins 613;Electricista;Media completa;Ocupado;843;Emprendimiento;100;Sí
+P0166;Florencia Hernández Martínez;97.615.475-K;florencia.hernández3@correo.cl;1974-09-22;F;Chiguayante;O'Higgins 1268;Mecánico;Media completa;Ocupado;634;Oficios técnicos;90;Sí
+P0167;Cristóbal González Díaz;90.934.921-6;cristóbal.gonzález98@correo.cl;1992-02-02;F;Chiguayante;Chacabuco 1547;Jardinero;Media completa;Ocupado;486;Emprendimiento;71;Sí
+P0168;Antonia Flores Rojas;92.721.121-1;antonia.flores57@correo.cl;1978-10-31;M;Hualqui;Serrano 1865;Conductor;Universitaria incompleta;Ocupado;611;Apresto laboral;54;No
+P0169;Nicolás Castillo Martínez;96.528.360-5;nicolás.castillo58@correo.cl;1975-03-27;F;Chiguayante;Las Camelias 2107;Comerciante;Media completa;Desocupado;426;Emprendimiento;100;Sí
+P0170;Diego Espinoza Rodríguez;97.947.056-3;diego.espinoza47@correo.cl;1959-06-17;M;Chiguayante;Freire 2480;Jardinero;Técnica;Ocupado;376;Emprendimiento;100;No
+P0171;Agustín Flores Gutiérrez;92.646.910-K;agustín.flores66@correo.cl;1992-02-15;M;Coronel;O'Higgins 3795;Soldador;Técnica;Ocupado;634;Apresto laboral;73;Sí
+P0172;Agustín Pérez Díaz;94.694.128-8;agustín.pérez85@correo.cl;1985-08-25;M;Chiguayante;Los Aromos 2756;Cocinero;Media completa;Ocupado;320;Emprendimiento;41;No
+P0173;Camila Rodríguez González;93.694.023-3;camila.rodríguez16@correo.cl;1983-12-26;M;Coronel;Las Camelias 4315;Electricista;Media completa;Desocupado;449;Apresto laboral;65;No
+P0174;Paula Araya Araya;99.160.903-6;paula.araya45@correo.cl;1982-07-19;F;Coronel;Colo Colo 1860;Operario;Básica completa;Ocupado;346;Alfabetización digital;64;No
+P0175;Cristóbal Contreras Martínez;90.755.867-5;cristóbal.contreras64@correo.cl;1995-02-21;F;Talcahuano;Maipú 2836;Auxiliar de aseo;Universitaria incompleta;Ocupado;443;Alfabetización digital;77;Sí
+P0176;Javiera Gutiérrez Silva;93.605.917-0;javiera.gutiérrez95@correo.cl;1979-10-10;F;Hualpén;Serrano 2780;Cajero;Universitaria incompleta;Ocupado;513;Apresto laboral;58;No
+P0177;Catalina Muñoz Muñoz;97.724.171-0;catalina.muñoz10@correo.cl;1959-06-08;M;Hualpén;Maipú 3736;Costurera;Media completa;Desocupado;599;Apresto laboral;95;Sí
+P0178;Cristóbal Flores Muñoz;99.563.833-2;cristóbal.flores64@correo.cl;1994-10-18;M;Concepción;Chacabuco 3682;Guardia;Media completa;Ocupado;644;Alfabetización digital;90;Sí
+P0179;Emilia Valenzuela Soto;99.423.349-5;emilia.valenzuela49@correo.cl;1987-12-06;M;Concepción;Las Camelias 4846;Comerciante;Media completa;Ocupado;647;Oficios técnicos;71;Sí
+P0180;Paula Fuentes Gutiérrez;97.048.069-8;paula.fuentes94@correo.cl;2002-08-17;M;Hualpén;O'Higgins 3479;Vendedor;Media completa;Inactivo;634;Alfabetización digital;75;Sí
+P0181;Tomás Soto Sepúlveda;99.387.270-2;tomás.soto66@correo.cl;1982-07-17;M;Talcahuano;Las Camelias 1644;Panadero;Básica completa;Desocupado;322;Apresto laboral;73;Sí
+P0182;Josefa Araya Rodríguez;96.755.188-7;josefa.araya23@correo.cl;1959-06-21;M;Coronel;Serrano 3534;Soldador;Técnica;Ocupado;565;Apresto laboral;69;No
+P0183;Antonia Fuentes Castillo;90.930.840-4;antonia.fuentes83@correo.cl;1986-10-23;M;Chiguayante;Las Camelias 3149;Mecánico;Básica completa;Ocupado;448;Oficios técnicos;68;No
+P0184;Cristóbal Fuentes Rodríguez;92.014.243-5;cristóbal.fuentes87@correo.cl;1972-10-27;M;Penco;Maipú 2750;Conductor;Media incompleta;Ocupado;219;Emprendimiento;94;Sí
+P0185;Josefa Silva Pérez;99.495.538-5;josefa.silva45@correo.cl;1985-07-19;M;Hualpén;Caupolicán 4717;Conductor;Media incompleta;Ocupado;411;Alfabetización digital;53;No
+P0186;Antonia Pérez Tapia;91.496.484-K;antonia.pérez89@correo.cl;1959-11-01;M;Coronel;Las Camelias 1454;Contador;Básica completa;Ocupado;674;Emprendimiento;59;No
+P0187;Catalina Araya Díaz;97.202.594-7;catalina.araya14@correo.cl;1999-07-02;M;San Pedro de la Paz;Los Aromos 3225;Costurera;Media completa;Inactivo;471;Oficios técnicos;85;Sí
+P0188;Isidora Fuentes Torres;95.495.246-8;isidora.fuentes22@correo.cl;1995-07-08;F;Coronel;O'Higgins 1172;Administrativo;Universitaria incompleta;Desocupado;850;Emprendimiento;59;No
+P0189;Agustín Morales Morales;97.903.049-0;agustín.morales43@correo.cl;1988-04-16;F;Concepción;Maipú 1751;Costurera;Media completa;Inactivo;668;Oficios técnicos;89;Sí
+P0190;Constanza Rodríguez Morales;99.118.056-0;constanza.rodríguez94@correo.cl;1971-05-17;M;San Pedro de la Paz;Janequeo 774;Contador;Media completa;Ocupado;192;Emprendimiento;60;No
+P0191;Agustín Contreras Soto;96.699.956-6;agustín.contreras52@correo.cl;1985-02-14;F;Hualpén;Janequeo 4977;Comerciante;Media completa;Ocupado;585;Apresto laboral;75;Sí
+P0192;Paula Valenzuela Torres;95.716.241-7;paula.valenzuela28@correo.cl;1958-05-18;F;Tomé;Colo Colo 1857;Panadero;Técnica;Ocupado;945;Alfabetización digital;94;Sí
+P0193;Javiera Hernández Castillo;99.958.545-4;javiera.hernández96@correo.cl;1984-08-14;M;Concepción;Barros Arana 3130;Contador;Media completa;Ocupado;282;Oficios técnicos;69;No
+P0194;Joaquín Morales Rojas;98.941.207-2;joaquín.morales98@correo.cl;1997-01-15;F;Hualpén;Caupolicán 3625;Técnico en enfermería;Media incompleta;Ocupado;332;Oficios técnicos;83;Sí
+P0195;Isidora Silva Reyes;99.782.685-3;isidora.silva18@correo.cl;1980-09-21;M;Coronel;Maipú 3928;Mecánico;Media completa;Ocupado;535;Emprendimiento;96;Sí
+P0196;Vicente Soto López;94.853.261-K;vicente.soto32@correo.cl;1989-02-22;F;Coronel;Colo Colo 274;Profesor de educación básica;Media incompleta;Ocupado;194;Oficios técnicos;82;Sí
+P0197;Constanza Araya Contreras;90.519.773-K;constanza.araya13@correo.cl;1979-09-26;F;Penco;Barros Arana 2333;Panadero;Universitaria incompleta;Ocupado;579;Apresto laboral;93;Sí
+P0198;Agustín Silva Valenzuela;99.258.473-8;agustín.silva47@correo.cl;1960-08-03;M;Coronel;Caupolicán 4395;Profesor de educación básica;Básica completa;Desocupado;276;Emprendimiento;67;No
+P0199;Catalina Araya Muñoz;93.871.054-5;catalina.araya73@correo.cl;1984-06-22;M;Talcahuano;Serrano 2302;Mecánico;Media completa;Ocupado;566;Emprendimiento;89;Sí
+P0200;Camila Contreras Torres;93.102.471-9;camila.contreras13@correo.cl;1962-07-23;F;Hualpén;Maipú 240;Operario;Técnica;Desocupado;828;Alfabetización digital;75;Sí
+P0201;Sebastián Contreras Reyes;94.445.635-8;sebastián.contreras43@correo.cl;2000-05-06;F;Hualpén;Serrano 2701;Conductor;Media completa;Ocupado;344;Oficios técnicos;90;Sí
+P0202;Nicolás Espinoza Espinoza;93.927.926-0;nicolás.espinoza40@correo.cl;1967-04-08;F;Penco;Prat 2659;Costurera;Básica completa;Inactivo;371;Apresto laboral;57;No
+P0203;Vicente Fuentes Fuentes;94.887.876-1;vicente.fuentes64@correo.cl;1960-02-11;F;Chiguayante;Los Aromos 4841;Electricista;Media completa;Inactivo;582;Emprendimiento;95;Sí
+P0204;Florencia Gutiérrez Soto;97.287.849-4;florencia.gutiérrez5@correo.cl;1994-04-03;M;Hualqui;Maipú 2308;Peluquero;Técnica;Desocupado;550;Apresto laboral;69;No
+P0205;Camila Díaz López;93.492.308-0;camila.díaz38@correo.cl;1994-08-15;M;San Pedro de la Paz;Caupolicán 2933;Operario;Técnica;Desocupado;713;Alfabetización digital;37;No
+P0206;Josefa Hernández Valenzuela;94.582.350-8;josefa.hernández52@correo.cl;1996-07-28;F;Hualpén;O'Higgins 2512;Contador;Media completa;Desocupado;428;Emprendimiento;100;Sí
+P0207;Paula Díaz Torres;92.683.469-K;paula.díaz10@correo.cl;1966-07-22;M;Hualpén;Serrano 2463;Panadero;Media completa;Desocupado;802;Oficios técnicos;70;Sí
+P0208;Cristóbal Flores Martínez;91.659.276-1;cristóbal.flores74@correo.cl;1988-01-09;M;Talcahuano;Prat 2317;Conductor;Media completa;Desocupado;426;Apresto laboral;58;No
+P0209;Cristóbal Pérez González;90.914.528-9;cristóbal.pérez53@correo.cl;1995-01-21;F;Penco;O'Higgins 4251;Cocinero;Media completa;Inactivo;490;Oficios técnicos;71;Sí
+P0210;Fernanda Contreras Espinoza;94.661.387-6;fernanda.contreras23@correo.cl;2000-06-27;F;Lota;Barros Arana 681;Conductor;Media incompleta;Inactivo;508;Oficios técnicos;67;No
+P0211;Florencia Sepúlveda Araya;94.825.650-7;florencia.sepúlveda59@correo.cl;1961-11-29;M;Hualpén;Caupolicán 1843;Cocinero;Técnica;Desocupado;545;Alfabetización digital;24;No
+P0212;Emilia Fuentes Sepúlveda;95.109.203-4;emilia.fuentes49@correo.cl;1990-12-22;M;Tomé;Colo Colo 2458;Jardinero;Universitaria incompleta;Desocupado;731;Alfabetización digital;74;Sí
+P0213;Tomás Díaz Muñoz;99.935.518-1;tomás.díaz80@correo.cl;1996-10-17;F;Hualpén;Las Camelias 3972;Auxiliar de aseo;Media completa;Inactivo;329;Emprendimiento;68;No
+P0214;Camila Morales Rodríguez;90.082.284-9;camila.morales91@correo.cl;1995-05-11;F;Chiguayante;Chacabuco 165;Jardinero;Básica completa;Ocupado;583;Alfabetización digital;85;Sí
+P0215;Fernanda Torres Rojas;90.605.977-2;fernanda.torres65@correo.cl;1991-05-17;M;Penco;Maipú 3156;Administrativo;Media incompleta;Inactivo;523;Emprendimiento;66;No
+P0216;Florencia Fuentes Soto;99.270.307-9;florencia.fuentes37@correo.cl;1975-10-26;F;Penco;Maipú 3302;Recepcionista;Media completa;Ocupado;577;Alfabetización digital;94;Sí
+P0217;Catalina Reyes Reyes;99.611.867-7;catalina.reyes26@correo.cl;1981-02-11;M;Penco;Maipú 394;Recepcionista;Media completa;Ocupado;644;Apresto laboral;62;No
+P0218;Javiera Valenzuela Reyes;99.439.477-4;javiera.valenzuela20@correo.cl;1991-12-07;M;Penco;Los Aromos 3740;Recepcionista;Básica completa;Ocupado;645;Apresto laboral;61;No
+P0219;Antonia Soto Castillo;97.251.445-K;antonia.soto6@correo.cl;1971-07-07;F;Penco;Las Camelias 391;Conductor;Universitaria incompleta;Desocupado;317;Alfabetización digital;99;No
+P0220;Rodrigo Gutiérrez Castillo;92.562.776-3;rodrigo.gutiérrez84@correo.cl;1972-11-05;M;Coronel;Maipú 811;Administrativo;Media incompleta;Ocupado;496;Apresto laboral;59;No
+P0221;Camila Espinoza Muñoz;99.813.136-0;camila.espinoza58@correo.cl;1994-07-04;M;Tomé;Caupolicán 1325;Contador;Técnica;Ocupado;499;Alfabetización digital;76;Sí
+P0222;Josefa Espinoza Martínez;98.151.156-K;josefa.espinoza30@correo.cl;1964-05-24;F;Talcahuano;Freire 3002;Panadero;Media completa;Ocupado;803;Emprendimiento;99;Sí
+P0223;Florencia Flores Rojas;92.992.854-7;florencia.flores96@correo.cl;1980-09-22;M;Lota;O'Higgins 2844;Peluquero;Media completa;Ocupado;731;Alfabetización digital;60;No
+P0224;Emilia Valenzuela Silva;93.512.644-3;emilia.valenzuela13@correo.cl;2003-10-24;M;Talcahuano;Las Camelias 3043;Administrativo;Básica completa;Desocupado;307;Emprendimiento;89;No
+P0225;Javiera Flores Rodríguez;99.202.322-1;javiera.flores36@correo.cl;1999-01-02;F;Talcahuano;Colo Colo 2418;Operario;Media completa;Ocupado;417;Emprendimiento;73;Sí
+P0226;Camila Morales Reyes;94.791.795-K;camila.morales34@correo.cl;1976-04-04;M;Chiguayante;Barros Arana 4334;Jardinero;Media completa;Ocupado;617;Oficios técnicos;100;Sí
+P0227;Antonia Gutiérrez Soto;90.843.221-7;antonia.gutiérrez98@correo.cl;1971-05-23;F;San Pedro de la Paz;Chacabuco 4719;Peluquero;Media completa;Desocupado;445;Emprendimiento;75;Sí
+P0228;Agustín Flores Rojas;98.903.354-3;agustín.flores84@correo.cl;1989-06-01;M;Lota;Freire 513;Recepcionista;Media completa;Ocupado;815;Alfabetización digital;88;Sí
+P0229;Isidora Flores Contreras;98.264.876-3;isidora.flores41@correo.cl;1986-08-02;F;Lota;Las Camelias 2779;Electricista;Técnica;Ocupado;517;Apresto laboral;86;Sí
+P0230;Josefa Gutiérrez Gutiérrez;92.513.134-2;josefa.gutiérrez70@correo.cl;1977-01-03;M;Talcahuano;O'Higgins 4296;Profesor de educación básica;Técnica;Ocupado;611;Emprendimiento;85;No
+P0231;Josefa Reyes Araya;99.950.178-1;josefa.reyes34@correo.cl;1990-07-12;F;Tomé;Chacabuco 2197;Auxiliar de aseo;Media completa;Desocupado;448;Alfabetización digital;42;No
+P0232;Catalina Gutiérrez Espinoza;94.141.174-4;catalina.gutiérrez58@correo.cl;1966-12-12;M;Hualpén;Chacabuco 1073;Operario;Básica completa;Ocupado;558;Emprendimiento;100;Sí
+P0233;Nicolás Gutiérrez Valenzuela;98.534.393-9;nicolás.gutiérrez37@correo.cl;1992-09-25;M;Concepción;Chacabuco 3220;Electricista;Media completa;Ocupado;250;Apresto laboral;68;No
+P0234;Vicente Araya Flores;99.016.228-3;vicente.araya94@correo.cl;2002-09-20;M;Talcahuano;Serrano 598;Conductor;Básica completa;Desocupado;624;Alfabetización digital;91;Sí
+P0235;Joaquín Fuentes Silva;95.558.276-1;joaquín.fuentes20@correo.cl;1977-05-26;M;Hualqui;Caupolicán 3343;Comerciante;Media completa;Ocupado;657;Apresto laboral;49;No
+P0236;Vicente Torres Rojas;94.575.634-7;vicente.torres62@correo.cl;1959-03-07;F;Hualqui;Caupolicán 1517;Panadero;Técnica;Ocupado;696;Apresto laboral;100;Sí
+P0237;Fernanda Valenzuela Martínez;90.690.515-0;fernanda.valenzuela97@correo.cl;1961-03-02;M;Lota;Barros Arana 3247;Vendedor;Media incompleta;Ocupado;373;Alfabetización digital;64;No
+P0238;Martín Martínez Gutiérrez;93.716.719-8;martín.martínez86@correo.cl;1970-02-23;F;Tomé;Colo Colo 1574;Cajero;Técnica;Ocupado;734;Apresto laboral;62;No
+P0239;Josefa Castillo Araya;93.384.603-1;josefa.castillo65@correo.cl;1984-06-28;F;Chiguayante;Serrano 2299;Técnico en enfermería;Media incompleta;Inactivo;383;Emprendimiento;97;No
+P0240;Antonia Soto Castillo;93.128.992-5;antonia.soto87@correo.cl;1981-10-14;M;Hualqui;Las Camelias 2006;Técnico en enfermería;Media incompleta;Ocupado;601;Oficios técnicos;100;Sí
+P0241;Sebastián Valenzuela Sepúlveda;99.505.807-7;sebastián.valenzuela80@correo.cl;1987-02-26;F;Tomé;Janequeo 1965;Jardinero;Técnica;Inactivo;827;Alfabetización digital;43;No
+P0242;Agustín Hernández González;90.421.647-1;agustín.hernández9@correo.cl;1981-12-06;M;Concepción;Caupolicán 915;Vendedor;Técnica;Ocupado;855;Apresto laboral;100;Sí
+P0243;Valentina López Gutiérrez;91.581.302-0;valentina.lópez47@correo.cl;1970-11-22;F;Hualpén;Colo Colo 2288;Panadero;Media completa;Ocupado;577;Emprendimiento;61;No
+P0244;Fernanda Tapia Morales;94.177.749-8;fernanda.tapia63@correo.cl;1973-04-15;F;Tomé;Los Aromos 2575;Soldador;Técnica;Ocupado;767;Oficios técnicos;62;No
+P0245;Martín Rodríguez Castillo;91.320.884-7;martín.rodríguez44@correo.cl;1966-07-02;M;Chiguayante;Barros Arana 3609;Operario;Media completa;Ocupado;762;Oficios técnicos;76;Sí
+P0246;Rodrigo López Díaz;99.240.086-6;rodrigo.lópez33@correo.cl;1971-02-24;M;Hualqui;Freire 4064;Cocinero;Media completa;Ocupado;596;Emprendimiento;56;No
+P0247;Joaquín Soto Rojas;91.619.907-5;joaquín.soto95@correo.cl;1981-12-26;M;Tomé;Caupolicán 3195;Profesor de educación básica;Técnica;Ocupado;680;Oficios técnicos;97;Sí
+P0248;Constanza Sepúlveda Flores;95.231.992-K;constanza.sepúlveda60@correo.cl;1976-11-15;F;Hualpén;O'Higgins 4180;Panadero;Media incompleta;Ocupado;293;Apresto laboral;53;No
+P0249;Paula Silva Torres;96.858.255-7;paula.silva58@correo.cl;1991-12-18;F;Chiguayante;Freire 2468;Técnico en enfermería;Técnica;Ocupado;651;Alfabetización digital;76;Sí
+P0250;Sebastián Rojas Espinoza;92.127.804-7;sebastián.rojas35@correo.cl;1963-08-27;F;Chiguayante;Maipú 3245;Costurera;Técnica;Ocupado;569;Alfabetización digital;66;No
+P0251;Cristóbal Araya Martínez;93.877.691-0;cristóbal.araya62@correo.cl;1978-02-10;F;Talcahuano;Colo Colo 611;Cajero;Universitaria incompleta;Inactivo;659;Oficios técnicos;67;No
+P0252;Javiera Soto Contreras;94.735.343-6;javiera.soto11@correo.cl;1992-11-08;F;Chiguayante;Freire 4898;Contador;Básica completa;Ocupado;399;Oficios técnicos;100;Sí
+P0253;Nicolás González Contreras;99.594.758-0;nicolás.gonzález35@correo.cl;1967-10-09;M;San Pedro de la Paz;Chacabuco 4105;Contador;Técnica;Ocupado;749;Oficios técnicos;96;Sí
+P0254;Josefa Hernández Rojas;93.496.592-1;josefa.hernández51@correo.cl;1967-05-07;F;Coronel;Las Camelias 254;Técnico en enfermería;Media incompleta;Ocupado;388;Apresto laboral;96;Sí
+P0255;Tomás Sepúlveda Muñoz;97.152.934-8;tomás.sepúlveda92@correo.cl;1963-04-06;F;Coronel;Prat 3589;Comerciante;Media completa;Inactivo;549;Emprendimiento;60;No
+P0256;Camila Gutiérrez González;90.984.874-3;camila.gutiérrez64@correo.cl;1964-12-12;F;Lota;Chacabuco 3571;Profesor de educación básica;Media completa;Inactivo;506;Apresto laboral;38;No
+P0257;Fernanda Pérez Torres;90.145.345-6;fernanda.pérez10@correo.cl;1969-10-22;F;Penco;Barros Arana 1004;Administrativo;Técnica;Ocupado;858;Emprendimiento;69;No
+P0258;Benjamín Torres Sepúlveda;98.445.209-2;benjamín.torres58@correo.cl;1994-06-21;M;Talcahuano;Prat 4161;Mecánico;Técnica;Desocupado;895;Alfabetización digital;83;Sí
+P0259;Vicente Flores Soto;95.141.342-6;vicente.flores24@correo.cl;1985-07-11;M;Lota;Maipú 4845;Operario;Universitaria incompleta;Desocupado;763;Alfabetización digital;74;Sí
+P0260;Diego Martínez Soto;95.109.774-5;diego.martínez36@correo.cl;1967-11-09;M;Chiguayante;Los Aromos 4514;Mecánico;Media completa;Ocupado;423;Oficios técnicos;100;Sí
+P0261;Isidora Pérez Morales;93.164.491-1;isidora.pérez16@correo.cl;1960-09-26;F;Lota;Prat 524;Guardia;Universitaria incompleta;Ocupado;888;Apresto laboral;75;Sí
+P0262;Josefa Reyes Muñoz;94.696.230-7;josefa.reyes60@correo.cl;1977-10-10;M;Hualpén;O'Higgins 2512;Conductor;Media completa;Desocupado;726;Emprendimiento;100;Sí
+P0263;Cristóbal López Castillo;91.450.706-6;cristóbal.lópez79@correo.cl;1971-08-16;F;Tomé;Freire 318;Auxiliar de aseo;Universitaria incompleta;Ocupado;728;Alfabetización digital;72;Sí
+P0264;Catalina Morales Sepúlveda;92.650.635-8;catalina.morales6@correo.cl;1961-05-31;M;Chiguayante;Barros Arana 2242;Soldador;Media completa;Ocupado;634;Apresto laboral;66;No
+P0265;Diego Rojas Martínez;90.494.966-5;diego.rojas70@correo.cl;2003-07-12;F;San Pedro de la Paz;Colo Colo 1153;Soldador;Técnica;Inactivo;514;Oficios técnicos;64;No
+P0266;Valentina Rodríguez Rojas;92.619.061-K;valentina.rodríguez39@correo.cl;1963-03-03;M;Lota;Janequeo 4881;Comerciante;Básica completa;Ocupado;281;Emprendimiento;58;No
+P0267;Catalina Torres Pérez;90.776.930-7;catalina.torres65@correo.cl;2001-03-29;F;Hualqui;Serrano 2640;Panadero;Técnica;Desocupado;683;Alfabetización digital;83;Sí
+P0268;Martín Morales Araya;91.037.540-8;martín.morales33@correo.cl;1990-04-15;F;Talcahuano;Chacabuco 447;Profesor de educación básica;Universitaria incompleta;Ocupado;850;Oficios técnicos;93;Sí
+P0269;Benjamín Tapia Morales;93.598.003-7;benjamín.tapia1@correo.cl;1979-02-02;F;Chiguayante;Chacabuco 4763;Costurera;Universitaria incompleta;Ocupado;659;Alfabetización digital;59;No
+P0270;Cristóbal Espinoza Soto;91.277.281-1;cristóbal.espinoza70@correo.cl;1979-09-05;F;Coronel;Maipú 4729;Mecánico;Universitaria incompleta;Inactivo;719;Apresto laboral;69;No
+P0271;Constanza Castillo Fuentes;92.721.637-K;constanza.castillo45@correo.cl;2002-12-10;M;Talcahuano;Freire 4413;Cajero;Media incompleta;Ocupado;292;Oficios técnicos;70;Sí
+P0272;Diego Muñoz López;92.203.502-4;diego.muñoz60@correo.cl;2002-10-18;F;Tomé;Colo Colo 996;Vendedor;Técnica;Ocupado;658;Apresto laboral;100;No
+P0273;Emilia Fuentes Rojas;95.100.581-6;emilia.fuentes44@correo.cl;1989-07-14;M;Lota;Serrano 3596;Administrativo;Media completa;Desocupado;884;Apresto laboral;84;Sí
+P0274;Fernanda Silva Araya;97.206.856-5;fernanda.silva70@correo.cl;1968-12-31;M;Chiguayante;Las Camelias 1716;Guardia;Media completa;Ocupado;403;Apresto laboral;80;No
+P0275;Joaquín Silva Morales;99.531.081-7;joaquín.silva19@correo.cl;1972-06-15;F;Hualpén;O'Higgins 499;Cocinero;Media completa;Desocupado;570;Apresto laboral;60;No
+P0276;Martín Tapia Valenzuela;93.415.362-5;martín.tapia58@correo.cl;2003-11-01;F;Hualpén;Las Camelias 4214;Recepcionista;Media incompleta;Ocupado;481;Alfabetización digital;89;Sí
+P0277;Diego Tapia Martínez;93.401.775-6;diego.tapia96@correo.cl;1985-09-18;M;Concepción;Serrano 3282;Contador;Media completa;Ocupado;546;Emprendimiento;75;No
+P0278;Emilia Araya Silva;96.730.761-7;emilia.araya62@correo.cl;1996-08-10;F;Chiguayante;Colo Colo 4833;Cajero;Técnica;Ocupado;656;Alfabetización digital;85;Sí
+P0279;Isidora Valenzuela Silva;95.031.247-2;isidora.valenzuela37@correo.cl;1964-02-05;M;Chiguayante;Caupolicán 3725;Costurera;Media incompleta;Ocupado;440;Apresto laboral;98;Sí
+P0280;Tomás González Valenzuela;93.141.794-K;tomás.gonzález42@correo.cl;1970-06-08;M;Lota;Prat 1700;Comerciante;Media completa;Ocupado;440;Alfabetización digital;75;No
+P0281;Florencia Soto Gutiérrez;92.228.715-5;florencia.soto18@correo.cl;2000-01-27;F;Talcahuano;Caupolicán 2808;Soldador;Técnica;Desocupado;912;Apresto laboral;48;No
+P0282;Benjamín Hernández Gutiérrez;95.916.844-7;benjamín.hernández28@correo.cl;1985-01-14;M;Concepción;Colo Colo 1836;Cocinero;Media completa;Ocupado;438;Emprendimiento;92;No
+P0283;Paula Martínez Martínez;93.422.886-2;paula.martínez17@correo.cl;1971-10-18;M;San Pedro de la Paz;Prat 3124;Operario;Media completa;Ocupado;633;Emprendimiento;87;Sí
+P0284;Catalina Hernández Pérez;93.188.183-2;catalina.hernández34@correo.cl;1987-03-31;F;Tomé;Prat 4240;Operario;Técnica;Ocupado;743;Alfabetización digital;91;Sí
+P0285;Cristóbal Espinoza Flores;98.677.355-4;cristóbal.espinoza73@correo.cl;1991-10-17;M;Tomé;Caupolicán 3922;Técnico en enfermería;Media completa;Desocupado;576;Oficios técnicos;87;Sí
+P0286;Emilia Reyes Fuentes;97.261.230-3;emilia.reyes50@correo.cl;1993-12-17;M;Penco;O'Higgins 288;Jardinero;Básica completa;Ocupado;370;Oficios técnicos;83;No
+P0287;Valentina Torres Gutiérrez;96.494.926-K;valentina.torres80@correo.cl;1983-12-17;F;Coronel;Prat 3974;Jardinero;Técnica;Ocupado;405;Apresto laboral;39;No
+P0288;Joaquín Fuentes Díaz;95.274.471-K;joaquín.fuentes25@correo.cl;1998-06-01;M;Hualqui;Las Camelias 1120;Peluquero;Técnica;Ocupado;440;Apresto laboral;57;No
+P0289;Javiera Díaz Morales;96.810.220-2;javiera.díaz26@correo.cl;1968-09-30;F;Tomé;Freire 2347;Técnico en enfermería;Media incompleta;Ocupado;360;Emprendimiento;65;No
+P0290;Emilia Reyes Reyes;95.465.854-3;emilia.reyes99@correo.cl;2001-10-16;F;Hualpén;Barros Arana 4274;Contador;Media incompleta;Ocupado;671;Oficios técnicos;100;Sí
+P0291;Josefa Tapia Gutiérrez;95.865.938-2;josefa.tapia62@correo.cl;1974-10-02;M;Tomé;Las Camelias 2216;Costurera;Media completa;Ocupado;529;Emprendimiento;82;Sí
+P0292;Tomás Martínez Martínez;97.162.871-0;tomás.martínez18@correo.cl;1975-12-29;M;Coronel;Maipú 2132;Administrativo;Media completa;Inactivo;564;Oficios técnicos;100;Sí
+P0293;Valentina Valenzuela Reyes;96.907.615-9;valentina.valenzuela63@correo.cl;1962-12-17;M;San Pedro de la Paz;Las Camelias 2716;Guardia;Técnica;Desocupado;632;Emprendimiento;95;Sí
+P0294;Martín Valenzuela Rojas;97.488.806-3;martín.valenzuela48@correo.cl;1999-11-26;F;Penco;Serrano 4583;Costurera;Técnica;Inactivo;525;Oficios técnicos;100;Sí
+P0295;Rodrigo González Fuentes;95.682.960-4;rodrigo.gonzález19@correo.cl;1978-01-18;M;Tomé;Freire 4463;Panadero;Media completa;Ocupado;561;Emprendimiento;62;No
+P0296;Florencia Tapia Soto;90.173.305-K;florencia.tapia25@correo.cl;1959-11-13;F;Hualqui;Chacabuco 154;Profesor de educación básica;Media completa;Ocupado;562;Oficios técnicos;85;Sí
+P0297;Paula Fuentes Pérez;98.963.502-0;paula.fuentes18@correo.cl;1993-08-25;F;Tomé;Colo Colo 651;Peluquero;Media completa;Ocupado;268;Apresto laboral;65;No
+P0298;Cristóbal Flores Contreras;91.656.742-2;cristóbal.flores35@correo.cl;1982-08-28;M;Concepción;Freire 4811;Jardinero;Técnica;Desocupado;473;Alfabetización digital;80;Sí
+P0299;Valentina Reyes Valenzuela;94.537.971-3;valentina.reyes92@correo.cl;1965-09-01;F;Hualpén;Barros Arana 703;Técnico en enfermería;Media completa;Desocupado;292;Alfabetización digital;98;Sí
+P0300;Fernanda Reyes Muñoz;92.282.746-K;fernanda.reyes66@correo.cl;1958-10-30;M;Tomé;Freire 3644;Técnico en enfermería;Básica completa;Ocupado;469;Emprendimiento;89;Sí
+P0301;Cristóbal Reyes Valenzuela;95.554.799-0;cristóbal.reyes11@correo.cl;1997-01-02;F;Hualpén;Colo Colo 831;Contador;Media completa;Ocupado;567;Oficios técnicos;100;Sí
+P0302;Catalina Valenzuela Rodríguez;96.275.623-5;catalina.valenzuela86@correo.cl;1970-07-31;F;Talcahuano;Las Camelias 3359;Operario;Media completa;Desocupado;445;Alfabetización digital;83;Sí
+P0303;Emilia Rodríguez Contreras;93.821.602-8;emilia.rodríguez4@correo.cl;1959-11-30;M;Hualqui;O'Higgins 4550;Comerciante;Media completa;Ocupado;1007;Oficios técnicos;47;No
+P0304;Benjamín Díaz Rodríguez;90.602.590-8;benjamín.díaz69@correo.cl;1985-08-11;F;Hualqui;Barros Arana 197;Administrativo;Media incompleta;Desocupado;167;Apresto laboral;80;Sí
+P0305;Rodrigo Rodríguez Díaz;97.314.241-6;rodrigo.rodríguez98@correo.cl;1986-02-09;M;San Pedro de la Paz;Freire 2855;Cajero;Media completa;Inactivo;549;Alfabetización digital;87;Sí
+P0306;Cristóbal Pérez Pérez;99.050.680-2;cristóbal.pérez94@correo.cl;1963-08-31;M;Tomé;Caupolicán 2941;Mecánico;Universitaria incompleta;Ocupado;747;Apresto laboral;90;Sí
+P0307;Camila Morales Morales;94.779.746-6;camila.morales64@correo.cl;1984-10-05;F;Hualpén;Freire 2885;Electricista;Media completa;Desocupado;673;Oficios técnicos;64;No
+P0308;Josefa Díaz Soto;90.758.805-1;josefa.díaz10@correo.cl;1994-10-17;M;Hualpén;Chacabuco 4613;Recepcionista;Media completa;Ocupado;556;Emprendimiento;80;Sí
+P0309;Catalina Silva González;92.229.696-0;catalina.silva67@correo.cl;1987-07-08;F;Coronel;Serrano 2533;Mecánico;Media incompleta;Ocupado;684;Apresto laboral;91;Sí
+P0310;Valentina Sepúlveda Tapia;95.975.149-5;valentina.sepúlveda76@correo.cl;1971-12-06;F;Tomé;Chacabuco 2120;Técnico en enfermería;Media completa;Ocupado;402;Emprendimiento;94;Sí
+P0311;Paula Espinoza Valenzuela;91.383.136-6;paula.espinoza55@correo.cl;1976-05-17;F;Talcahuano;Las Camelias 1916;Guardia;Universitaria incompleta;Ocupado;507;Oficios técnicos;94;Sí
+P0312;Paula Araya Castillo;99.667.679-3;paula.araya21@correo.cl;1958-01-30;M;Talcahuano;Freire 1648;Soldador;Media incompleta;Ocupado;571;Alfabetización digital;100;Sí
+P0313;Antonia López Silva;98.566.176-0;antonia.lópez43@correo.cl;1993-03-25;M;Penco;Janequeo 3039;Auxiliar de aseo;Media completa;Desocupado;478;Alfabetización digital;61;No
+P0314;Sebastián Gutiérrez Torres;90.636.914-3;sebastián.gutiérrez42@correo.cl;1988-07-02;M;Chiguayante;Las Camelias 3403;Recepcionista;Universitaria incompleta;Ocupado;504;Alfabetización digital;69;No
+P0315;Joaquín Flores Díaz;91.855.297-K;joaquín.flores81@correo.cl;1983-10-19;F;Tomé;Janequeo 2821;Costurera;Media completa;Desocupado;715;Emprendimiento;100;Sí
+P0316;Antonia Silva Pérez;98.397.423-0;antonia.silva46@correo.cl;1963-08-10;M;Talcahuano;Las Camelias 1354;Electricista;Media completa;Ocupado;644;Emprendimiento;63;No
+P0317;Joaquín Rodríguez Espinoza;95.355.623-2;joaquín.rodríguez50@correo.cl;1998-10-08;F;Hualqui;Serrano 1569;Comerciante;Media completa;Desocupado;621;Emprendimiento;70;Sí
+P0318;Sebastián Rojas Pérez;91.728.313-4;sebastián.rojas16@correo.cl;1964-03-23;F;Concepción;Barros Arana 2695;Guardia;Media completa;Ocupado;630;Oficios técnicos;100;Sí
+P0319;Valentina Contreras Flores;98.490.510-0;valentina.contreras19@correo.cl;1964-03-31;M;Hualpén;Maipú 2580;Jardinero;Básica completa;Ocupado;495;Emprendimiento;97;Sí
+P0320;Rodrigo Morales Gutiérrez;94.288.556-1;rodrigo.morales32@correo.cl;1994-01-05;M;Hualpén;Caupolicán 3582;Jardinero;Técnica;Ocupado;681;Emprendimiento;79;Sí
+P0321;Valentina Flores López;91.487.852-8;valentina.flores93@correo.cl;1973-07-15;M;Lota;Janequeo 4431;Cocinero;Media completa;Desocupado;757;Emprendimiento;86;Sí
+P0322;Rodrigo Morales López;99.918.835-8;rodrigo.morales95@correo.cl;1975-11-28;M;Tomé;Chacabuco 897;Contador;Técnica;Ocupado;396;Alfabetización digital;100;Sí
+P0323;Nicolás Fuentes Díaz;99.519.229-6;nicolás.fuentes34@correo.cl;1989-12-01;M;Hualqui;Las Camelias 4354;Costurera;Media completa;Ocupado;559;Alfabetización digital;100;Sí
+P0324;Catalina Muñoz Soto;99.959.316-3;catalina.muñoz87@correo.cl;1989-02-14;F;Coronel;O'Higgins 3712;Cocinero;Técnica;Ocupado;841;Oficios técnicos;67;No
+P0325;Isidora Araya Martínez;98.967.513-8;isidora.araya55@correo.cl;1991-07-18;M;Lota;Freire 1853;Electricista;Universitaria incompleta;Ocupado;844;Oficios técnicos;53;No
+P0326;Agustín Soto Pérez;96.487.486-3;agustín.soto11@correo.cl;1969-12-27;F;Coronel;Colo Colo 1763;Profesor de educación básica;Universitaria incompleta;Ocupado;595;Apresto laboral;68;No
+P0327;Nicolás Rodríguez Rojas;96.319.655-1;nicolás.rodríguez92@correo.cl;1972-12-12;F;San Pedro de la Paz;Las Camelias 895;Panadero;Media incompleta;Ocupado;436;Emprendimiento;91;Sí
+P0328;Cristóbal Castillo Reyes;98.908.854-2;cristóbal.castillo48@correo.cl;2003-02-17;F;Coronel;Las Camelias 1918;Recepcionista;Universitaria incompleta;Desocupado;583;Oficios técnicos;92;Sí
+P0329;Rodrigo Tapia Hernández;99.421.751-1;rodrigo.tapia94@correo.cl;1993-07-11;M;Penco;Las Camelias 139;Jardinero;Media completa;Inactivo;383;Alfabetización digital;55;No
+P0330;Matías Reyes Hernández;95.841.069-4;matías.reyes76@correo.cl;1970-02-10;F;Coronel;Chacabuco 317;Auxiliar de aseo;Media incompleta;Ocupado;614;Apresto laboral;65;No
+P0331;Constanza Contreras Gutiérrez;98.804.829-6;constanza.contreras42@correo.cl;1964-05-29;F;Coronel;Maipú 3211;Administrativo;Media completa;Ocupado;301;Apresto laboral;45;No
+P0332;Josefa Torres Sepúlveda;94.303.359-3;josefa.torres10@correo.cl;1970-12-19;M;Hualqui;Chacabuco 4250;Profesor de educación básica;Media completa;Ocupado;676;Apresto laboral;93;Sí
+P0333;Emilia Morales González;93.002.348-4;emilia.morales41@correo.cl;1985-12-14;M;Coronel;Maipú 4045;Electricista;Media completa;Ocupado;592;Emprendimiento;67;No
+P0334;Antonia Contreras Valenzuela;93.131.262-5;antonia.contreras13@correo.cl;2003-07-18;F;Coronel;Barros Arana 2014;Conductor;Media completa;Desocupado;720;Emprendimiento;79;Sí
+P0335;Diego Pérez Torres;96.324.498-K;diego.pérez84@correo.cl;1987-09-03;F;Concepción;Las Camelias 1508;Peluquero;Media completa;Ocupado;376;Alfabetización digital;80;Sí
+P0336;Martín Flores Díaz;97.122.062-2;martín.flores62@correo.cl;1996-08-11;F;Penco;Colo Colo 1080;Soldador;Básica completa;Ocupado;355;Alfabetización digital;64;No
+P0337;Emilia Silva Silva;98.113.807-9;emilia.silva53@correo.cl;1989-06-04;M;Tomé;Janequeo 3421;Vendedor;Básica completa;Ocupado;282;Apresto laboral;65;No
+P0338;Camila Valenzuela Gutiérrez;99.894.865-0;camila.valenzuela82@correo.cl;2000-05-14;F;Coronel;Las Camelias 4783;Peluquero;Media completa;Desocupado;580;Alfabetización digital;72;Sí
+P0339;Agustín Martínez Soto;93.445.043-3;agustín.martínez33@correo.cl;1970-08-29;F;San Pedro de la Paz;Colo Colo 2637;Administrativo;Básica completa;Ocupado;298;Alfabetización digital;100;Sí
+P0340;Matías Espinoza Pérez;94.791.594-9;matías.espinoza73@correo.cl;1979-04-06;M;Tomé;Colo Colo 1159;Peluquero;Media completa;Ocupado;654;Emprendimiento;100;Sí
+P0341;Cristóbal Castillo Sepúlveda;91.880.257-7;cristóbal.castillo60@correo.cl;1977-08-19;M;Coronel;Caupolicán 3376;Panadero;Media incompleta;Ocupado;366;Emprendimiento;67;No
+P0342;Emilia Martínez Contreras;96.322.289-7;emilia.martínez60@correo.cl;1978-05-11;F;Tomé;Caupolicán 3567;Operario;Universitaria incompleta;Desocupado;308;Emprendimiento;75;Sí
+P0343;Joaquín Díaz Castillo;90.055.958-7;joaquín.díaz20@correo.cl;1969-05-29;F;Coronel;Chacabuco 4336;Panadero;Universitaria incompleta;Ocupado;754;Alfabetización digital;76;Sí
+P0344;Sebastián Rojas Castillo;90.771.906-7;sebastián.rojas96@correo.cl;1969-10-29;F;Penco;Los Aromos 4334;Soldador;Universitaria incompleta;Ocupado;635;Alfabetización digital;40;No
+P0345;Constanza Sepúlveda López;96.205.708-6;constanza.sepúlveda67@correo.cl;1982-04-07;M;Talcahuano;Los Aromos 2471;Soldador;Técnica;Ocupado;789;Emprendimiento;63;No
+P0346;Diego Flores Torres;99.970.255-8;diego.flores25@correo.cl;1968-08-07;M;Hualpén;Barros Arana 4822;Costurera;Básica completa;Desocupado;580;Alfabetización digital;67;No
+P0347;Javiera Tapia Martínez;92.901.046-9;javiera.tapia96@correo.cl;1984-06-08;M;Chiguayante;Caupolicán 537;Panadero;Media completa;Inactivo;437;Emprendimiento;99;Sí
+P0348;Antonia Silva Fuentes;95.395.367-3;antonia.silva4@correo.cl;1958-03-16;F;Tomé;Las Camelias 2874;Cajero;Media incompleta;Desocupado;363;Alfabetización digital;100;No
+P0349;Emilia Hernández Díaz;90.920.318-1;emilia.hernández99@correo.cl;1978-05-13;M;Coronel;Prat 1076;Contador;Media incompleta;Ocupado;545;Alfabetización digital;74;Sí
+P0350;Javiera Espinoza Morales;94.700.472-5;javiera.espinoza97@correo.cl;1991-12-09;F;Tomé;Chacabuco 4646;Mecánico;Media incompleta;Ocupado;671;Emprendimiento;72;Sí
+P0351;Camila González Soto;94.299.233-3;camila.gonzález96@correo.cl;1994-06-15;F;Hualpén;Maipú 3459;Contador;Media completa;Inactivo;753;Alfabetización digital;92;Sí
+P0352;Benjamín Muñoz Castillo;90.243.371-8;benjamín.muñoz42@correo.cl;1975-03-30;F;Concepción;Janequeo 3705;Conductor;Media incompleta;Desocupado;519;Alfabetización digital;62;No
+P0353;Cristóbal Flores Sepúlveda;99.420.172-0;cristóbal.flores35@correo.cl;1962-12-10;F;Hualpén;Colo Colo 1051;Profesor de educación básica;Media incompleta;Desocupado;668;Alfabetización digital;73;Sí
+P0354;Agustín González Silva;91.616.546-4;agustín.gonzález43@correo.cl;1981-01-03;M;Hualpén;Los Aromos 1908;Panadero;Media completa;Desocupado;596;Alfabetización digital;79;Sí
+P0355;Isidora Rodríguez Reyes;92.838.828-K;isidora.rodríguez34@correo.cl;1985-05-29;M;Chiguayante;Barros Arana 3773;Soldador;Técnica;Desocupado;836;Oficios técnicos;69;No
+P0356;Antonia Rodríguez Sepúlveda;96.408.813-2;antonia.rodríguez62@correo.cl;1958-03-20;F;Chiguayante;Barros Arana 781;Auxiliar de aseo;Media completa;Ocupado;274;Emprendimiento;100;Sí
+P0357;Tomás Tapia Sepúlveda;98.737.444-0;tomás.tapia66@correo.cl;1997-02-02;M;Hualpén;Chacabuco 2747;Costurera;Media incompleta;Ocupado;362;Emprendimiento;84;Sí
+P0358;Josefa Hernández Espinoza;91.872.319-7;josefa.hernández73@correo.cl;1964-11-09;M;Tomé;Los Aromos 2372;Auxiliar de aseo;Media completa;Ocupado;448;Oficios técnicos;66;No
+P0359;Valentina González Rodríguez;94.655.061-0;valentina.gonzález95@correo.cl;1997-02-15;M;San Pedro de la Paz;Freire 562;Contador;Media completa;Desocupado;447;Alfabetización digital;89;Sí
+P0360;Matías Silva Araya;92.688.639-8;matías.silva59@correo.cl;1964-04-04;M;Tomé;Caupolicán 3847;Comerciante;Universitaria incompleta;Desocupado;512;Oficios técnicos;95;Sí
+P0361;Diego Martínez Reyes;95.093.926-2;diego.martínez36@correo.cl;1977-11-01;M;Concepción;Los Aromos 970;Vendedor;Técnica;Inactivo;652;Oficios técnicos;98;Sí
+P0362;Constanza Hernández Muñoz;90.429.593-2;constanza.hernández56@correo.cl;1960-07-09;M;Chiguayante;Janequeo 3641;Cajero;Media incompleta;Desocupado;683;Emprendimiento;90;Sí
+P0363;Tomás Torres Pérez;96.005.271-0;tomás.torres2@correo.cl;1978-01-19;F;Penco;Freire 2500;Soldador;Media completa;Ocupado;783;Apresto laboral;69;No
+P0364;Tomás Valenzuela López;94.291.521-5;tomás.valenzuela82@correo.cl;1966-08-12;M;Talcahuano;Freire 4923;Comerciante;Técnica;Desocupado;528;Emprendimiento;58;No
+P0365;Diego Hernández Araya;92.309.228-5;diego.hernández98@correo.cl;1992-05-31;F;Penco;O'Higgins 1712;Mecánico;Técnica;Ocupado;925;Apresto laboral;47;No
+P0366;Nicolás Valenzuela Martínez;93.314.590-4;nicolás.valenzuela68@correo.cl;1983-01-20;F;Hualpén;Colo Colo 3471;Electricista;Media incompleta;Ocupado;454;Emprendimiento;68;No
+P0367;Paula Espinoza Martínez;93.957.903-5;paula.espinoza81@correo.cl;1966-10-01;M;Concepción;Colo Colo 1920;Mecánico;Media incompleta;Ocupado;73;Oficios técnicos;82;Sí
+P0368;Rodrigo Fuentes Araya;90.414.739-9;rodrigo.fuentes74@correo.cl;1972-03-08;F;Tomé;Las Camelias 420;Comerciante;Media completa;Ocupado;612;Alfabetización digital;71;Sí
+P0369;Joaquín Fuentes Espinoza;90.714.092-1;joaquín.fuentes76@correo.cl;1967-06-05;M;Talcahuano;Los Aromos 4630;Soldador;Universitaria incompleta;Inactivo;708;Alfabetización digital;81;Sí
+P0370;Martín González Araya;93.453.785-7;martín.gonzález16@correo.cl;1970-11-25;M;Chiguayante;Caupolicán 2273;Profesor de educación básica;Media completa;Ocupado;397;Alfabetización digital;58;No
+P0371;Rodrigo Sepúlveda Rodríguez;93.156.191-9;rodrigo.sepúlveda64@correo.cl;1966-01-03;F;Hualqui;Prat 3922;Mecánico;Técnica;Ocupado;730;Emprendimiento;45;No
+P0372;Joaquín Soto Hernández;99.838.047-6;joaquín.soto99@correo.cl;1992-12-04;M;San Pedro de la Paz;Serrano 2771;Peluquero;Media incompleta;Ocupado;520;Alfabetización digital;56;No
+P0373;Diego Araya Espinoza;97.597.672-1;diego.araya67@correo.cl;1989-09-15;M;Talcahuano;Maipú 3695;Soldador;Universitaria incompleta;Ocupado;498;Alfabetización digital;86;Sí
+P0374;Emilia Rodríguez Reyes;90.845.215-3;emilia.rodríguez89@correo.cl;2003-01-12;M;Talcahuano;Las Camelias 3729;Administrativo;Media completa;Inactivo;666;Emprendimiento;96;Sí
+P0375;Vicente Hernández Torres;92.977.044-7;vicente.hernández75@correo.cl;1959-10-27;M;Concepción;Chacabuco 3086;Peluquero;Técnica;Ocupado;752;Emprendimiento;98;Sí
+P0376;Constanza López Fuentes;99.352.367-8;constanza.lópez76@correo.cl;2002-09-22;M;Coronel;Caupolicán 452;Peluquero;Media completa;Ocupado;473;Apresto laboral;71;No
+P0377;Matías Contreras Rojas;90.847.139-5;matías.contreras43@correo.cl;1965-07-18;M;Hualqui;Las Camelias 4197;Administrativo;Universitaria incompleta;Inactivo;429;Apresto laboral;100;Sí
+P0378;Diego Sepúlveda Araya;94.620.210-8;diego.sepúlveda1@correo.cl;1960-05-18;M;Hualqui;Prat 4195;Contador;Media completa;Desocupado;743;Alfabetización digital;99;Sí
+P0379;Agustín Flores Silva;94.191.256-5;agustín.flores97@correo.cl;1979-09-15;F;Coronel;Caupolicán 1363;Guardia;Media completa;Ocupado;456;Apresto laboral;83;No
+P0380;Rodrigo González Silva;91.367.549-6;rodrigo.gonzález37@correo.cl;2003-04-25;F;Lota;Janequeo 2021;Operario;Técnica;Ocupado;375;Emprendimiento;65;No
+P0381;Joaquín Soto López;94.652.562-4;joaquín.soto3@correo.cl;1965-10-13;F;San Pedro de la Paz;Serrano 4089;Jardinero;Media completa;Desocupado;540;Apresto laboral;68;No
+P0382;Cristóbal Tapia Muñoz;91.831.527-7;cristóbal.tapia51@correo.cl;1970-05-01;F;Tomé;Janequeo 2065;Recepcionista;Técnica;Ocupado;699;Apresto laboral;72;Sí
+P0383;Fernanda Espinoza Tapia;91.558.558-3;fernanda.espinoza97@correo.cl;1994-01-08;M;Lota;Colo Colo 4653;Técnico en enfermería;Técnica;Ocupado;676;Alfabetización digital;90;Sí
+P0384;Matías Flores Sepúlveda;94.253.644-3;matías.flores81@correo.cl;1970-01-29;M;Hualqui;Maipú 4200;Administrativo;Técnica;Inactivo;463;Alfabetización digital;67;No
+P0385;Joaquín Araya Flores;96.883.263-4;joaquín.araya46@correo.cl;1985-04-01;F;Hualpén;Barros Arana 2343;Panadero;Media incompleta;Desocupado;389;Emprendimiento;65;No
+P0386;Joaquín Díaz Martínez;92.989.979-2;joaquín.díaz63@correo.cl;1966-11-10;M;San Pedro de la Paz;Las Camelias 2995;Guardia;Universitaria incompleta;Ocupado;424;Apresto laboral;47;No
+P0387;Nicolás Torres Sepúlveda;94.965.118-3;nicolás.torres28@correo.cl;1995-01-10;F;Chiguayante;Serrano 702;Mecánico;Media completa;Desocupado;529;Emprendimiento;56;No
+P0388;Diego Flores Torres;98.721.277-7;diego.flores40@correo.cl;1992-08-12;F;Concepción;Los Aromos 4988;Operario;Media completa;Ocupado;449;Alfabetización digital;70;Sí
+P0389;Benjamín Araya Muñoz;97.462.751-0;benjamín.araya78@correo.cl;1958-07-28;M;Lota;Serrano 3846;Vendedor;Técnica;Ocupado;803;Apresto laboral;53;No
+P0390;Rodrigo Araya Contreras;99.121.940-8;rodrigo.araya54@correo.cl;2001-11-25;F;Hualpén;Janequeo 2081;Costurera;Media completa;Desocupado;505;Alfabetización digital;48;No
+P0391;Florencia Flores Rodríguez;93.353.772-1;florencia.flores58@correo.cl;1994-08-02;M;San Pedro de la Paz;Las Camelias 2798;Electricista;Media completa;Desocupado;127;Apresto laboral;66;No
+P0392;Constanza Fuentes Castillo;95.650.118-8;constanza.fuentes72@correo.cl;1967-12-01;F;Hualpén;Janequeo 1147;Electricista;Media completa;Inactivo;463;Oficios técnicos;97;Sí
+P0393;Cristóbal Espinoza Tapia;96.072.928-1;cristóbal.espinoza16@correo.cl;1987-02-27;M;Tomé;Chacabuco 4194;Panadero;Técnica;Ocupado;922;Alfabetización digital;79;Sí
+P0394;Benjamín Martínez Contreras;95.177.803-3;benjamín.martínez63@correo.cl;1963-08-31;F;San Pedro de la Paz;Maipú 2255;Mecánico;Media completa;Ocupado;555;Emprendimiento;86;Sí
+P0395;Cristóbal Sepúlveda Soto;97.707.211-0;cristóbal.sepúlveda3@correo.cl;1984-07-08;M;Hualqui;Chacabuco 3070;Profesor de educación básica;Media completa;Desocupado;617;Apresto laboral;71;Sí
+P0396;Constanza Contreras Pérez;90.295.411-4;constanza.contreras77@correo.cl;1997-03-20;M;San Pedro de la Paz;Los Aromos 3466;Contador;Media completa;Ocupado;616;Apresto laboral;73;Sí
+P0397;Benjamín Hernández Contreras;95.323.404-9;benjamín.hernández16@correo.cl;1994-10-15;F;Talcahuano;Los Aromos 2967;Electricista;Básica completa;Ocupado;299;Apresto laboral;49;No
+P0398;Sebastián Espinoza Soto;92.702.124-2;sebastián.espinoza89@correo.cl;1974-09-15;M;Hualpén;Los Aromos 1736;Jardinero;Media completa;Ocupado;606;Apresto laboral;84;Sí
+P0399;Rodrigo Martínez Hernández;92.372.356-0;rodrigo.martínez91@correo.cl;1965-09-19;F;Concepción;Las Camelias 2066;Auxiliar de aseo;Media completa;Ocupado;379;Emprendimiento;95;Sí
+P0400;Paula Tapia Silva;91.892.676-4;paula.tapia50@correo.cl;1977-05-24;M;Hualqui;Freire 2268;Vendedor;Media completa;Inactivo;586;Apresto laboral;52;No
+P0401;Tomás Tapia Morales;95.843.326-0;tomás.tapia47@correo.cl;1998-02-04;F;Coronel;Maipú 1417;Cocinero;Universitaria incompleta;Ocupado;665;Oficios técnicos;55;No
+P0402;Diego Valenzuela Espinoza;95.424.658-K;diego.valenzuela6@correo.cl;1985-11-18;M;Lota;Maipú 1974;Profesor de educación básica;Universitaria incompleta;Ocupado;490;Oficios técnicos;72;Sí
+P0403;Paula Torres Contreras;95.349.857-7;paula.torres85@correo.cl;1971-09-15;F;San Pedro de la Paz;O'Higgins 3227;Técnico en enfermería;Media completa;Ocupado;543;Oficios técnicos;70;Sí
+P0404;Isidora Muñoz Sepúlveda;92.799.071-7;isidora.muñoz85@correo.cl;1970-09-04;M;Hualqui;Caupolicán 3508;Operario;Técnica;Inactivo;626;Emprendimiento;70;Sí
+P0405;Fernanda Tapia Hernández;94.281.137-1;fernanda.tapia52@correo.cl;1982-03-19;F;Hualqui;Los Aromos 218;Peluquero;Técnica;Desocupado;906;Oficios técnicos;62;No
+P0406;Nicolás Morales Tapia;94.092.638-4;nicolás.morales39@correo.cl;1960-04-23;F;Talcahuano;Serrano 2063;Peluquero;Media completa;Desocupado;866;Oficios técnicos;90;Sí
+P0407;Vicente Reyes Araya;99.809.302-7;vicente.reyes73@correo.cl;1986-09-24;M;Hualqui;Colo Colo 4021;Soldador;Media completa;Ocupado;682;Apresto laboral;61;No
+P0408;Fernanda Hernández Contreras;92.542.109-K;fernanda.hernández54@correo.cl;1982-03-25;M;Concepción;Colo Colo 4812;Panadero;Media completa;Desocupado;604;Alfabetización digital;78;Sí
+P0409;Matías Sepúlveda Valenzuela;98.521.826-3;matías.sepúlveda5@correo.cl;1958-06-22;F;Tomé;Prat 1473;Guardia;Media completa;Desocupado;550;Oficios técnicos;89;Sí
+P0410;Josefa Reyes Flores;99.852.872-4;josefa.reyes66@correo.cl;1998-04-01;F;Talcahuano;Maipú 1513;Cajero;Técnica;Ocupado;598;Oficios técnicos;75;Sí
+P0411;Cristóbal Espinoza Rodríguez;97.729.724-4;cristóbal.espinoza26@correo.cl;1998-10-12;F;Tomé;Colo Colo 4683;Cajero;Media completa;Desocupado;516;Alfabetización digital;52;No
+P0412;Valentina Silva Sepúlveda;92.435.885-8;valentina.silva78@correo.cl;1994-03-10;M;San Pedro de la Paz;Los Aromos 4269;Técnico en enfermería;Media completa;Inactivo;447;Alfabetización digital;99;Sí
+P0413;Martín Torres Gutiérrez;97.361.202-1;martín.torres50@correo.cl;1975-05-31;F;Chiguayante;Serrano 919;Administrativo;Media completa;Ocupado;689;Emprendimiento;100;Sí
+P0414;Antonia Soto Pérez;98.279.837-4;antonia.soto92@correo.cl;1960-01-17;M;San Pedro de la Paz;Prat 1542;Administrativo;Media incompleta;Ocupado;282;Emprendimiento;100;Sí
+P0415;Paula Castillo Muñoz;98.884.403-3;paula.castillo36@correo.cl;1976-10-30;F;Lota;Maipú 419;Costurera;Universitaria incompleta;Ocupado;525;Alfabetización digital;71;Sí
+P0416;Catalina Castillo Valenzuela;96.206.602-6;catalina.castillo54@correo.cl;1961-03-27;M;Chiguayante;Prat 1680;Peluquero;Media completa;Desocupado;590;Apresto laboral;56;No
+P0417;Isidora Castillo Reyes;91.628.528-1;isidora.castillo99@correo.cl;1989-09-11;F;Chiguayante;Las Camelias 381;Recepcionista;Media completa;Desocupado;760;Emprendimiento;88;Sí
+P0418;Rodrigo Castillo Soto;97.840.207-6;rodrigo.castillo68@correo.cl;1975-01-24;F;Penco;Caupolicán 2868;Profesor de educación básica;Media completa;Ocupado;529;Alfabetización digital;78;Sí
+P0419;Sebastián Díaz Tapia;93.110.790-8;sebastián.díaz22@correo.cl;1977-03-11;M;Talcahuano;Chacabuco 602;Jardinero;Media completa;Desocupado;523;Oficios técnicos;77;Sí
+P0420;Josefa Tapia Torres;99.000.147-6;josefa.tapia32@correo.cl;1973-08-12;M;Penco;Las Camelias 1299;Soldador;Media completa;Ocupado;537;Apresto laboral;61;No
